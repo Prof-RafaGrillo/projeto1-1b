@@ -16,3 +16,11 @@ body{
     background-color: pink;
     padding: 30px;
 }
+
+main{
+    background-color: blue;
+    color: red;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 16px;
+}
